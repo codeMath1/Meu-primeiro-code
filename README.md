@@ -1,2 +1,2 @@
-# Meu-primeiro-code
-Um dos meus primeiros códigos desenvolvido para exercicios da faculdade.
+# Um dos meus primeiros códigos desenvolvido para faculdade.
+Primeiro código desenvolvido em HTML e CSS via VSCODE
