@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap');
+
+* {
+    margin: 0px auto;
+    padding: 0px auto;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://th.bing.com/th/id/R.2994c322072168087127e0076306b06a?rik=uqm2Yj%2fqRiR4ew&pid=ImgRaw&r=0);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px #ffffff;
+    color: rgb(255, 255, 255);
+}
+
+.titulo {
+    display: inline-block;
+    margin: 10px 0px 0px 30px
+}
+
+.menuopt{
+    display: inline;
+    text-shadow: 2px 2px 4px #ffffff;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.menu-opt {
+    text-align: right;
+    margin-top: -38px;
+    margin-right: 20px;
+}
+
+ul {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    font-size: 30px;
+    font-family: "Libre Bodoni", sans-serif;
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #ffffff;    
+    font-size: 20px;
+}
+
+
+body {
+    text-shadow: 2px 2px 4px #ffffff;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 70px;
+    margin-left: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
